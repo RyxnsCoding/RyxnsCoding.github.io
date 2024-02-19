@@ -1,0 +1,120 @@
+* {
+    margin: 1px; 
+    padding: 0px; 
+}
+
+header {
+    font-family: Arial, Helvetica, sans-serif;
+    color: khaki;
+    text-align: center; 
+    background-image: url(Resources/pattern.jpeg);
+    margin: 30px 5px;  
+}
+
+h1 {
+    margin: 0px auto;
+    font-weight: bold;
+    font-size: 100px;
+}
+
+.brushes h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px; 
+    font-weight: bold;
+    color: white;
+    background-color: mediumspringgreen;
+    margin: 10px 0px;
+    border: 1px solid black;
+    border-radius: 10px; 
+    padding: 5px; 
+}
+
+.brushes img {
+    margin-top: 20px; 
+    border: 1px solid black; 
+}
+
+.brushes h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin: 20px 0px; 
+}
+
+.brushes p {
+    margin: 20px 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.brushes span {
+    color: blue; 
+    font-weight: bold;
+}
+
+.frames h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px; 
+    font-weight: bold;
+    color: white;
+    background-color: lightcoral;
+    margin: 10px 0px; 
+    border: 1px solid black;
+    border-radius: 10px; 
+    padding: 5px; 
+}
+
+.frames img {
+    margin-top: 20px;
+}
+.frames h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin: 20px 0px;
+}
+
+.frames p {
+    margin: 20px 0px; 
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.frames span {
+    color: blue;
+    font-weight: bold;
+}
+
+.paint h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px; 
+    font-weight: bold;
+    color: white;
+    background-color: skyblue;
+    margin: 10px 0px;
+    border: 1px solid black;
+    border-radius: 10px; 
+    padding: 5px; 
+}
+
+.paint img {
+    margin-top: 20px; 
+}
+
+.paint h3 { 
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin: 20px 0px; 
+}
+
+.paint p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.paint span {
+    color: blue;
+    font-weight: bold;
+}
+
+footer {
+    text-align: center; 
+    border: 1px solid black;
+    padding: 10px; 
+    margin-top: 40px; 
+}
